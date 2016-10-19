@@ -25,8 +25,7 @@ ______________________
 
 - Adam Denchfield, IIT IPRO student, fall 2015
 
-- Melanie Cornelius (nee Dooley), IIT IPRO and research student, fall 2014 
-       through present
+- Melanie Cornelius (nee Dooley), IIT IPRO and research student, fall 2014 through present
 
 - Dr. Tom Roberts, IIT Research Professor of Physics
 
@@ -37,6 +36,8 @@ ______________________
 - Lucas Neves Abrantes, IIT research student, summer 2016
 
 - Yuri Rossi Tonin, IIT research student, summer 2016
+
+- Dr. Derrick C. Mancini, IIT Adjunct Professor of Physics, fall 2014 through present
 
 ______________________
 **How to Commit:**
